@@ -17,11 +17,18 @@ Work with digitized data supported by advanced metadata, ontologies, archiving, 
 Historical Social Scientists participants have agreed to meet at the Social Science History Association in the U.S. (in odd-numbered years, e.g. 2017, 2019) and at the European Social Science History Association (in even-numbered years, e.g. 2016, 2018)
 
 ## Current HSS participants 
-- Collaborative for Historical Information and Analysis (CHIA)
-- Common Lab Research Infrastructure for the Arts and Humanities (CLARIAH)
-- Institute for Research on World Systems (IROWS)
-- International Institute of Social History (IISH)
-- The Evolution Institute (Seshat)[], 
+- Collaborative for Historical Information and Analysis ([CHIA](http://www.chia.pitt.edu))
+- Common Lab Research Infrastructure for the Arts and Humanities ([CLARIAH](http://www.clariah.nl/en/))
+- Institute for Research on World Systems ([IROWS](http://www.irows.ucr.edu))
+- International Institute of Social History ([IISH](http://iisg.amsterdam))
+- The Evolution Institute ([Seshat](https://evolution-institute.org/project/seshat/)) 
 
 ## Potential participants 
-D-place (Jena), Human Relations Area Files, Interuniversity Consortium on Political and Social Research, Lee-Campbell Research Group (Hong Kong University of Science and Technology), Minnesota Population Center, Pelagios, Pittsburgh Supercomputing Center.
+- D-place (Jena)
+- Human Relations Area Files
+- Interuniversity Consortium on Political and Social Research
+- Lee-Campbell Research Group (Hong Kong University of Science and Technology)
+- Minnesota Population Center
+- Pelagios
+- Pittsburgh Supercomputing Center
+
