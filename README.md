@@ -1,6 +1,6 @@
 # Big Data in Human History 
 
-This association of historical social scientists explores big theoretical and empirical questions on the human past. Its mission lies in pursuing big questions at multiple scales of data and analysis, relying on advanced methods, and assuming interactions throughout the human social system.
+This association of historical social scientists explores big theoretical and empirical questions on the human past. Its mission lies in pursuing *big questions* at *multiple scales* of data and analysis, relying on *advanced methods*, and assuming interactions throughout the human social system.
 
 ## Big Questions 
 Theory and hypotheses on dynamics in human society: work, community, exchange, well-being, sustainability, social evolution, social complexity, knowledge, inequality, conflict, rupture, and environmental interactions.
