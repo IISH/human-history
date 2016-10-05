@@ -1,4 +1,4 @@
-# Big Data in Human History
+# Big Data in Human History 
 
 This association of historical social scientists explores big theoretical and empirical questions on the human past. Its mission lies in pursuing big questions at multiple scales of data and analysis, relying on advanced methods, and assuming interactions throughout the human social system.
 
@@ -16,7 +16,7 @@ Work with digitized data supported by advanced metadata, ontologies, archiving, 
 ## Conferences 
 Historical Social Scientists participants have agreed to meet at the Social Science History Association in the U.S. (in odd-numbered years, e.g. 2017, 2019) and at the European Social Science History Association (in even-numbered years, e.g. 2016, 2018)
 
-## Current HSS participants 
+## Current participants 
 - Collaborative for Historical Information and Analysis ([CHIA](http://www.chia.pitt.edu))
 - Common Lab Research Infrastructure for the Arts and Humanities ([CLARIAH](http://www.clariah.nl/en/))
 - Institute for Research on World Systems ([IROWS](http://www.irows.ucr.edu))
